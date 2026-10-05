@@ -1,0 +1,10 @@
+title: Довідка M.E.Doc
+description: Довідка програми M.E.Doc зі скріншотами
+lang: uk
+markdown: kramdown
+kramdown:
+  parse_block_html: false
+include: [pages, images]
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}
